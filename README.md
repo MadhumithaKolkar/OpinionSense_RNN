@@ -1,4 +1,4 @@
-# Opinion Sense: Unveiling the Emotions Behind the Words
+# OpinionSense: Unveiling the Emotions Behind Words
 
 ![image](https://github.com/MadhumithaKolkar/OpinionSense_RNN/assets/54811937/f5341b39-bc5c-482f-a338-06534b37374f)
 
