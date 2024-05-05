@@ -1,4 +1,4 @@
-##Opinion Sense: Unveiling the Emotions Behind the Words
+# Opinion Sense: Unveiling the Emotions Behind the Words
 Dive into the World of Sentiment Analysis
 Welcome to Opinion Sense, your gateway to exploring sentiment analysis! This project equips you with a powerful tool to understand the emotional undercurrents of text data. Whether you're analyzing customer reviews, social media posts, or any textual content, Opinion Sense helps you decipher the hidden language of sentiment.
 
